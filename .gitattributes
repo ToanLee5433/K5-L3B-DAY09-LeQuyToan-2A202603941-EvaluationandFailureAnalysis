@@ -1,0 +1,3 @@
+# Keep eval set line endings consistent across Windows and Linux CI so sha256 matches.
+*.jsonl text eol=lf
+*.json text eol=lf
